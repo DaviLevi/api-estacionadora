@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.estacionadora.api.veiculosEstacionados.VeiculosEstacionadosResourceTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.937 s - in br.com.estacionadora.api.veiculosEstacionados.VeiculosEstacionadosResourceTests
